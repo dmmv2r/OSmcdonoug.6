@@ -1,0 +1,17 @@
+Name: Donovan McDonough
+Date: 5/5/2022
+Project 6
+
+To compile, issue command "make".
+To run, issue command "./oss".
+To clean repository, issue command "make clean".
+
+Version control accomplished using Git and GitHub.
+Program can be found under username "dmmv2r" and project is named "OSmcdonoug.6".
+Can also use URL "github.com/dmmv2r/OSmcdonoug.6".
+
+NOTE: Project is not complete and does not fully execute. Project is safe to compile and run.
+In its current state, the program gets a child processes resource needs and sends and receives messages to and from master and child.
+Program also finds a random empty page, a random empty frame, and then inserts the respective info into each. The empty page will contain the frame location and the frame location contains the page location.
+
+NOTE: I again kept getting stuck and took a while to get through each step. I did not have enough time to fully complete this project.
